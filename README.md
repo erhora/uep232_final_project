@@ -1,5 +1,6 @@
 # uep232_final_project
 Author: Elizabeth Hora
+<br>
 email: Elizabeth.Hora@tufts.edu
 
 ## Motivation for Project:
