@@ -13,6 +13,9 @@ This R file contains all the analysis I completed in R. I have annotated the cod
 ### final_project_code
 This R project is how I accessed my data and ran my code.
 
+### Final_Project_Hora
+This pdf file is the writeup for my final project.
+
 ### data
 This folder contains all the files needed to reproduce my analysis. It contains the following information:
 - FinalProjectHora: This is where I did my work in ArcGIS Pro. I have all my maps and layouts that I did for this project.
